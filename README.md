@@ -10,7 +10,7 @@ Download videos from YouTube and other platforms through a Telegram Bot
 **READ [FAQ](FAQ.md) FIRST IF YOU ENCOUNTER ANY ISSUES.**
 
 -----
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/omigetapi/Sl-Downloader-Tg.git)
 
 Can't deploy? Fork to your personal account and deploy it there!
 
